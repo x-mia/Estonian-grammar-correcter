@@ -5,3 +5,6 @@
 
 #### Sample sentence: 
 * Vikastes lausetes on trügivigasid! Kui lõigud ja laused on olemas, siis saame teksti jagada ka sõnadeks. Ma tahax minna järve äärde ja püda hauge, katikaid ja karpe.
+
+### Requirements
+[EstNLTK](https://estnltk.github.io/)
